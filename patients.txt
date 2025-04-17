@@ -1,0 +1,8 @@
+Anna 55
+Greg 40
+Jasmine 80
+Kai 60
+Bella 70
+Carol 100
+Dave 10
+Elain 75
